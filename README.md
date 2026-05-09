@@ -47,23 +47,24 @@ The project also includes a practice file for API testing and learning purposes.
 ## Project Structure
 weather-app/
 
-index.html
-index.js
-styles.css
+README.md
 
-idx.html
-01-printDataUsingAPI.js
+index.html
+styles.css
+index.js
 
 images/
-location.png
-search.png
-loading.gif
-wind.png
-humidity.png
-cloud.png
-not-found.png
+    location.png
+    search.png
+    loading.gif
+    wind.png
+    humidity.png
+    cloud.png
+    not-found.png
 
-README.md
+practice/
+    idx.html
+    01-printDataUsingAPI.js
 
 ## Setup Instructions
 
