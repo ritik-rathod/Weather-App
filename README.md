@@ -57,7 +57,6 @@ weather-app/
 │
 ├── images/                 (Icons and assets)
 └── README.md
-
 ---
 
 ## Setup Instructions
