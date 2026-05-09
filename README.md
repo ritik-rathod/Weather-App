@@ -45,18 +45,26 @@ The project also includes a practice file for API testing and learning purposes.
 ---
 
 ## Project Structure
-
 weather-app/
 │
-├── index.html              (Main Weather App UI)
-├── index.js                (Main application logic)
-├── styles.css              (Styling file)
+├── index.html              (MAIN WEATHER APP UI)
+├── index.js                (MAIN APP LOGIC - tabs, API, geolocation)
+├── styles.css              (FULL STYLING)
 │
-├── idx.html                (Practice / lecture file)
-├── 01-printDataUsingAPI.js (API practice script)
+├── idx.html                (PRACTICE / LECTURE FILE)
+├── 01-printDataUsingAPI.js (API PRACTICE SCRIPT)
 │
-├── images/                 (Icons and assets)
-└── README.md
+├── images/                 (ALL ICONS & ASSETS)
+│   ├── location.png
+│   ├── search.png
+│   ├── loading.gif
+│   ├── wind.png
+│   ├── humidity.png
+│   ├── cloud.png
+│   └── not-found.png
+│
+├── README.md               (PROJECT DOCUMENTATION)
+└── .gitignore              (optional but recommended)
 ---
 
 ## Setup Instructions
